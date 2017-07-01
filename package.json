@@ -1,0 +1,29 @@
+{
+  "name": "af-online",
+  "version": "1.0.0",
+  "description": "AF Online Examination",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "sliit"
+  ],
+  "author": "it15019028 - L.T.Marasinghe",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.0",
+    "request": "^2.81.0",
+    "should": "^11.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}

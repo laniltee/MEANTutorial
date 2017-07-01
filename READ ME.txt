@@ -1,0 +1,6 @@
+Go to C:\Program Files\MongoDB 2.6 Standard\bin and run "mongod" command from the command prompt
+
+Open command prompt in this folder and run "node index.js"
+
+IT 15 0190 28 
+L.T. Marasinghe
